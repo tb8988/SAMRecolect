@@ -1,0 +1,59 @@
+	Access
+	Core CALClient Access License
+	Enterprise CAL
+	Excel
+	Excel Mac
+	Exchange Enterprise CAL
+	Exchange Server - Enterprise
+	Exchange Server - Standard
+	Exchange Standard CAL
+	Frfrnt Identity Mgr CAL
+	InfoPath
+	Lync
+	Lync Mac
+	Lync Server Ent CAL
+	Lync Server Plus CAL
+	Lync Server Std CAL
+	Office Mac Standard
+	Office Professional Plus
+	Office Standard
+	OneNote
+	PowerPoint
+	Project
+	Project Professional
+	Project Server
+	Project Server CAL
+	Publisher
+	SfB Server
+	SfB Server Ent CAL
+	SfB Server Plus CAL
+	SfB Server Std CAL
+	SharePoint Enterprise CAL
+	SharePoint Server
+	SharePoint Standard CAL
+	SQL CAL
+	SQL Parallel Data Warehouse Dev
+	SQL Server Business Intelligence
+	SQL Server Developer Edition
+	SQL Server Standard Edition
+	SQL Svr Enterprise Core
+	SQL Svr Standard Core
+	Sys Ctr Clt Mgmt Suite
+	Sys Ctr Config Mgr Clt Mgmt Lic
+	Sys Ctr Datacenter
+	Sys Ctr Standard
+	Visio Professional
+	Visio Standard
+	Visual Studio Premium w/MSDN
+	Visual Studio Pro w/MSDN
+	Visual Studio Professional
+	Visual Studio Team Fndation Svr CAL
+	Visual Studio Team Foundation Svr
+	Visual Studio Ultimate w/MSDN
+	Win Ent for SA
+	Win Pro
+	Win Rmt Dsktp Svcs CAL
+	Windows Server CAL
+	Windows Server Datacenter
+	Windows Server Standard
+	Word
